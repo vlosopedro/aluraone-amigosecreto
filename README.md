@@ -13,6 +13,14 @@
 
 - O projeto permite que o usuário adicione nomes a uma lista e, posteriormente, realize o sorteio de vários nomes aleatóriamente. 
 
+
+
+https://github.com/user-attachments/assets/333c040c-2f3f-41bb-8585-994a7d2529d1
+
+
+
+
+
 <h2>📂 Estrutura do Projeto</h2>
     <ul>
         <li><code>index.html</code> → Estrutura de interface do usuário em marcação html</li>
@@ -29,7 +37,7 @@
 
   - Baixe o repositório e execute o index.html e a pagina irá abrir na web rodando localmente
 
-<h2>Possiveis problemas</h2>
+<h2>⚠️Possiveis problemas</h2>
 
 -Nomes iguais podem ser digitados gerando uma vantagem a mais, a possivel solução seria usar um else if como está comentado no codigo app.js   
                
