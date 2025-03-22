@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/f9f6dbf6-efc7-4e72-b6fa-ca649948037a) ![image](https://github.com/user-attachments/assets/e1ba6adc-66c9-42c6-b441-e4ff94853563) 
 <h1 align="center"> 📖 O Projeto </h1>
-<p> - Este projeto consistiu em desenvolver um sorteador de nomes aleatórios em JavaScript, HTML e CSS., um desafio e exercício para reforçar o aprendizado das linguagens e principalmente JavaScript que é o foco do curso.<P>
+<p> - Este projeto consistiu em desenvolver um sorteador de nomes aleatórios em JavaScript, HTML e CSS, um desafio e exercício para reforçar o aprendizado das linguagens e principalmente JavaScript que é o foco do curso.<P>
 </P>  - O código foi escrito e comentado sobre o repositório base disponibilizado no curso de lógica de programaçao da Alura.
  </p>
 
